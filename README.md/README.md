@@ -4,9 +4,9 @@
 
 ```
 ▄██████████████▄▐█▄▄▄▄█▌
-      ██████▌▄▌▄▐▐▌███▌▀▀██▀▀
-      ████▄█▌▄▌▄▐▐▌▀███▄▄█▌
-      ▄▄▄▄▄██████████████▀
+██████▌▄▌▄▐▐▌███▌▀▀██▀▀
+████▄█▌▄▌▄▐▐▌▀███▄▄█▌
+▄▄▄▄▄██████████████▀
 ```
 
 Terminal-first network load testing with live monitoring. Designed for **controlled environments**.
@@ -88,6 +88,9 @@ cd netwo-bust
 
 chmod +x netwo_burst.sh
 ./netwo_burst.sh
+
+or
+sudo bash netwo_burst.sh
 ```
 {% endstep %}
 {% endstepper %}
