@@ -85,7 +85,7 @@ pacman -Syu --noconfirm
 pacman -S curl iputils bc git --noconfirm
 
 # Clone repository
-git clone https://github.com/yourusername/netwo-burst.git
+git clone https://github.com/UwURaww/netwo-burst.git
 cd netwo-burst
 
 # Make executable
