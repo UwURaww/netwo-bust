@@ -86,7 +86,7 @@ pacman -S curl iputils bc git --noconfirm
 
 # Clone repository
 git clone https://github.com/UwURaww/netwo-bust.git
-cd netwo-burst
+cd netwo-bust
 
 # Make executable
 chmod +x netwo_burst.sh
