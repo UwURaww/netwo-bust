@@ -101,4 +101,4 @@ sudo bash netwo_burst.sh
 ```bash
 proot-distro login archlinux -- bash -c "pacman -Syu --noconfirm && pacman -S git curl iputils bc --noconfirm && git clone https://github.com/UwURaww/netwo-bust.git && cd netwo-burst && chmod +x netwo_burst.sh && ./netwo_burst.sh"
 ```
-
+# please if this cool can you star, my repo? 
